@@ -1,8 +1,0 @@
-<body>
-    <canvas id='canvas'></canvas>
-<script>
-var canvas = document.getElementById("canvas");
-canvas.width = document.documentElement.clientWidth;/* 作用是使canvas宽度和屏幕一样宽 */
-canvas.height = document.documentElement.clientHeight/* body的高度默认由其内容撑开 */
-
-  </script>

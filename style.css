@@ -5,6 +5,5 @@
 }
 
 #canvas {
-  height: 100vh; /* 100vh就是跟屏幕一样高 */
-  border: 1px solid red;
+  display: block; /* canvas原本是inline元素,这里把它改为block元素 */
 }
